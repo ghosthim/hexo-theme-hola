@@ -1,6 +1,7 @@
 > 元项目: [isecret/Hola](https://github.com/isecret/Hola)
 > 本项目对其进行简化。
-**去除的功能: **
+
+**去除的功能:**
 1. InstantClick
 2. Gitment
 3. tencent_analytics
