@@ -47,6 +47,16 @@ hitokoto: disabled
   #client_id: 33c48a5302663d6cb62c
   #client_secret: b504cf9938d10219d43a2336b9288734cf47638c
 
+valine:
+  enable: true
+  app_id: #你的valine app_id
+  app_key: #你的valine app_key
+  notify: false   #邮件提醒设置
+  verify: false   #验证码设置
+  placeholder: ヾﾉ≧∀≦)o快来评论一下吧!
+  avatar: monsterid  #头像设置
+  pageSize: 10
+  visitor: true
 # 腾讯统计
 #tencent_analytics: 
 
@@ -66,3 +76,4 @@ scripts:
 - /js/md5.min.js
 - /js/hola.js
 - /js/alu.js
+- /js/Valine.min.js
